@@ -1,0 +1,388 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Go to the current abstract on ibm.com/redbooks",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "Front cover",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                286.0,
+                790.0,
+                0.0
+            ]
+        },
+        {
+            "title": "IBM FlashCore Modules Product Guide",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 7,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                578.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Terminology",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 11,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                359.0,
+                0.0
+            ]
+        },
+        {
+            "title": "How flash is evolving",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                466.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Floating Gate versus Charge Trap NAND technology",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                503.0,
+                0.0
+            ]
+        },
+        {
+            "title": "The history of IBM FCM",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "FCM facts and features",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                211.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Data write protection",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                473.0,
+                0.0
+            ]
+        },
+        {
+            "title": "SLC and Smart Data Placement",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                313.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Variable Stripe RAID",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 12,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                423.0,
+                0.0
+            ]
+        },
+        {
+            "title": "IBM differentiation: FCM",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 13,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                694.0,
+                0.0
+            ]
+        },
+        {
+            "title": "FCM generations",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 15,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "IBM FlashCore technology",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 18,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Data reduction tools",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 19,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Manageability and security",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 20,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                532.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Encryption",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 20,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                365.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reliability, availability, and serviceability",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 23,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                724.0,
+                0.0
+            ]
+        },
+        {
+            "title": "FCM NVMe drive options",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 23,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                620.0,
+                0.0
+            ]
+        },
+        {
+            "title": "New FCM developments",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 1,
+            "page_index": 24,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                725.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Future of FCM",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 27,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                493.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Related information",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 28,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                725.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Authors",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 29,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                725.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Now you can become a published author, too!",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 30,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                725.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Stay connected to IBM Redbooks",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 30,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                544.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Notices",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 1,
+            "page_index": 32,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                725.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Trademarks",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 33,
+            "view_mode": "XYZ",
+            "view_pos": [
+                64.0,
+                725.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Back cover",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 35,
+            "view_mode": "XYZ",
+            "view_pos": [
+                287.0,
+                770.0,
+                0.0
+            ]
+        }
+    ],
+    "pages": 34,
+    "ocr_stats": {
+        "ocr_pages": 3,
+        "ocr_failed": 0,
+        "ocr_success": 3,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 6,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}
